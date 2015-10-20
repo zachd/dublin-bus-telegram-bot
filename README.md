@@ -19,16 +19,16 @@ This extension requires multiple dependencies to work. [Suds](https://pypi.pytho
   - **Stop Number** - Responds with real time departure information for current stop
     >**User:** *3190*
  
-    >**Bot:** :busstop: Stop ID 49\
-    8 Mountjoy Sq via Ballsbridge - in 3 mins\
-    7 Mountjoy Sq via Ballsbridge - in 5 mins\
-    66 Maynooth via Palmerstown - in 10 mins\
-    25A Lucan S.C. via Palmerstown - in 13 mins\
-    4 Harristown via City Centre - in 13 mins
+    >**Bot:** :busstop: Stop ID 49
+    >8 Mountjoy Sq via Ballsbridge - in 3 mins
+    >7 Mountjoy Sq via Ballsbridge - in 5 mins
+    >66 Maynooth via Palmerstown - in 10 mins
+    >25A Lucan S.C. via Palmerstown - in 13 mins
+    >4 Harristown via City Centre - in 13 mins
   - **Location** - Responds with stop numbers nearby to location
     >**User:** [current location]
     
-    >**Bot:** :round_pushpin: Closest Stops:\
-    399: Pearse Street, Westland Row\
-    495: Westland Row, Pearse Station\
-    7588: Pearse Street, Tara Street
+    >**Bot:** :round_pushpin: Closest Stops:
+    >399: Pearse Street, Westland Row
+    >495: Westland Row, Pearse Station
+    >7588: Pearse Street, Tara Street
